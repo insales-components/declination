@@ -1,0 +1,14 @@
+{
+  "name": "declination",
+  "version": "1.0.0",
+  "description": "Склонение слов",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/declination",
+  "props": {
+    "common": true,
+    "liquid": true
+  },
+  "plugins": [],
+  "dependencies": {}
+}
